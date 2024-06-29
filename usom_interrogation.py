@@ -14,7 +14,7 @@ f = Figlet(font='slant')
 print(Fore.BLUE + f.renderText('Usom Check'))
 print(Fore.RED + "          | - | Made By : F3NR1R - Cyber Security | - |         ")
 
-data_file = r"C:\Users\doguk\Desktop\usom\usom-list.txt"
+data_file = r"C:\Users\Admin\Desktop\Usom\usom-list.txt"
 
 if not os.path.isfile(data_file):
     print(Fore.RED + f"Error: {data_file} not found!")
