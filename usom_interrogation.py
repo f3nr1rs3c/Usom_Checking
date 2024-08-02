@@ -12,7 +12,7 @@ os.system("clear")
 
 f = Figlet(font='slant')
 print(Fore.BLUE + f.renderText('Usom Check'))
-print(Fore.RED + "          | - | Made By : F3NR1R - Cyber Security | - |         ")
+print(Fore.RED + "          | - | Made By : Fenrir - Cyber Security Specialist | - |         ")
 
 data_file = r"C:\Users\Admin\Desktop\Usom\usom-list.txt"
 
